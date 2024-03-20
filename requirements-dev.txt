@@ -61,7 +61,7 @@ torch
 moto
 flask
 asv
-black==22.3.0
+black==24.3.0
 cpplint
 flake8==4.0.1
 flake8-bugbear==21.3.2
